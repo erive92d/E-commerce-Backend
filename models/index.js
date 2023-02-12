@@ -24,13 +24,6 @@ ProductTag.belongsTo(Product, {
   foreignKey: 'product_id',
   onDelete: 'CASCADE'
 })
-// Tag.belongsTo(Category, {
-//   foreignKey: 'category_id'
-// })
-// Category.hasMany(Tag, {
-//   foreignKey: 'category_id',
-//   onDelete: 'CASCADE'
-// })
 
 // Products belongToMany Tags (through ProductTag)
 Product.belongsToMany(Tag,{
