@@ -15,6 +15,9 @@ Connecting between tables
 - What did you learn?
 How to connect between each tables
 
+-DEMO:
+https://drive.google.com/file/d/1_YsOqWAS4hKF8EzqsbeqgdrCfD8ZU7yJ/view
+
 
 ## Table of Contents
 
